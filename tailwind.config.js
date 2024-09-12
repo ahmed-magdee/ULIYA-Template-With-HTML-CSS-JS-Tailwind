@@ -6,17 +6,17 @@ module.exports = {
     extend: {
       colors: {
         "main-color": "#0c0c0c",
-        "section-color":"#0fcfdc",
+        "section-color": "#0fcfdc",
         "opacity-color": "#e1f3fd",
-        "blue-sky": "#0fcfdc"
+        "blue-sky": "#0fcfdc",
       },
       fontFamily: {
-        "main-font":"'Poppins', sans-serif",
+        "main-font": "'Poppins', sans-serif",
       },
       animation: {
-        "spin-slow": 'spin 3s ease-in-out infinite'
-      }
+        "spin-slow": "spin 3s ease-in-out infinite",
+      },
     },
   },
-  plugins: []
+  plugins: [],
 };
